@@ -9,7 +9,7 @@ Dataset used in this project is from <a href="https://www.kaggle.com/gpreda/pfiz
 I have used version 139 of the dataset. 
 
 <h2>Different libraries</h2>
-*pandas
+-pandas
 -datetime 
 -seaborn
 -warnings
