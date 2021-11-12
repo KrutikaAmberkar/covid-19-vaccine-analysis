@@ -9,15 +9,15 @@ Dataset used in this project is from <a href="https://www.kaggle.com/gpreda/pfiz
 I have used version 139 of the dataset. 
 
 <h2>Different libraries used</h2>
-- pandas
-- datetime 
-- seaborn
-- warnings
-- plotly.express 
-- re
-- nltk
-- string
-- GeoText
-- pycountry
-- flag
+-pandas
+-datetime 
+-seaborn
+-warnings
+-plotly.express 
+-re
+-nltk
+-string
+-GeoText
+-pycountry
+-flag
 
