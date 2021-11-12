@@ -1,5 +1,3 @@
-# covid-19-vaccine-analysis
-
 <h1>Analysis on covid-19 vaccine data in python.</h1>
 Exploratory & Sentiment Analysis by Krutika Amberkar
 
