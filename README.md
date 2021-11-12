@@ -10,7 +10,7 @@ I have performed following on the dataset:
  <li>Vader Sentiment Analysis</li>
  <li>Text analysis</li>
  <li>User Analysis</li>
- <li>Visualisation</li>
+ <li>Visualization</li>
  </ul>
 
 <h2>About Data</h2>
