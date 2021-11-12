@@ -3,6 +3,15 @@ Exploratory & Sentiment Analysis by Krutika Amberkar
 
 <h2>Overview</h2>
 This repository contains code for exploratory & sentiment analysis on a dataset. 
+I have performed following on the dataset:
+<ul>
+  <li>Text Preprocessing</li>
+ <li>Feature Engineering</li>
+ <li>Vader Sentiment Analysis</li>
+ <li>Text analysis</li>
+ <li>User Analysis</li>
+ <li>Visualisation</li>
+ </ul>
 
 <h2>About Data</h2>
 Dataset used in this project is from <a href="https://www.kaggle.com/gpreda/pfizer-vaccine-tweets/code">Kaggle</a>. 
