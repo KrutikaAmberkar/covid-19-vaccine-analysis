@@ -8,8 +8,8 @@ This repository contains code for exploratory & sentiment analysis on a dataset.
 Dataset used in this project is from <a href="https://www.kaggle.com/gpreda/pfizer-vaccine-tweets/code">Kaggle</a>. 
 I have used version 139 of the dataset. 
 
-<h2>Different libraries used</h2>
--pandas
+<h2>Different libraries</h2>
+*pandas
 -datetime 
 -seaborn
 -warnings
